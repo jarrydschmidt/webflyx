@@ -1,1 +1,1 @@
-Learing Linix and Git
+Learing Linux and Git
